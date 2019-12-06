@@ -95,6 +95,13 @@ footer{
  text-decoration: none;
  color: #ffffff;
 }
+.footer-icon{
+  color: #ffffff;
+}
+.footer-icon:hover{
+  color: #9E7919;
+}
+
 
 
 
